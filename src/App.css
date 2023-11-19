@@ -1,0 +1,22 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+
+.gallery {
+  width: 100%;
+  text-align: center;
+}
+
+.header {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.carousel-img {
+  border-radius: 5px;
+  width: 90%;
+}
